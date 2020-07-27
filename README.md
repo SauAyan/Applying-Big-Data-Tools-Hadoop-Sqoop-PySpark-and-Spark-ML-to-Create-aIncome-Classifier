@@ -21,3 +21,6 @@ This Project is divided into three parts to cover the below learning objectives.
 1. HDFS and Hive for Data Storage and Management
 2. Data Ingestion using Sqoop
 3. Machine Learning using PySpark
+
+
+You can find the Data and the codes in the zip file Income Classifier
